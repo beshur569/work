@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.w{
+    width: 1280px;
+    margin: auto;
+}
+.header{
+    
+    height: 60px;
+    margin: 20px auto;
+    
+    font-size: 10px;
+    background-color: black;
+}
+.logo{
+    float: left;
+    width: 40px;
+    height: 40px;
+    margin: 10px 10px 0px 42px;
+    
+}
+.nav{
+    float: right;
+    color: white;
+    margin-right: 0px;
+}
+.nav ul li{
+    float: left;
+    margin: 20px 20px 0px 25px;
+    
+}
+.gray{
+    background-color: rgb(146, 144, 145);
+}
+.gray .mesg{
+    float: left;
+    width: 75%;
+    margin:0px 10px 20px 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, .3);
+}
+
+.gray .mesg .article{
+    padding-bottom: 10px;
+    margin: 0px 10px 10px 10px;
+    box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, .3);
+    background-color: rgb(247, 235, 238);
+}
+.gray .mesg .image{
+    
+    padding-bottom: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, .3);
+    background-color: rgb(247, 235, 238);
+}
+.gray .mesg .image .img{
+    width: 80px;
+}
+.gray .mesg .image ul{
+    padding-left: 50px;
+    padding-top: 50px;
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: row wrap;
+    -webkit-flex-flow: row wrap;
+
+    
+}
+.gray .mesg .image ul li{
+    flex: 1 auto;
+    list-style: none;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.gray .mesg .image .a{
+    width: 80px;
+
+}
+.gray .mesg .image .b{
+    width: 80px;
+}
+.gray .mesg .last{
+    padding-bottom: 10px;
+    margin: 10px;
+    box-shadow: 5px 5px 10px 3px rgba(0, 0, 0, .3);
+    background-color: rgb(247, 235, 238);
+}
+h1{
+    font-weight: 600;
+    font-size: 20px;
+}
+h2{
+    font-weight: 500;
+    font-size: 16px;
+    color: gray;
+}
+h4{
+    font-weight: 400;
+    font-size: 13px;
+    color: gray;
+}
+p{
+    text-indent: 2em;
+}
+p span{
+    display: block;
+}
+.a{
+    list-style: none;
+    padding-left: 25px;
+}
+.tbe{
+   width: 95%;
+}
+.tbe .b{
+    background-color: black;
+    color: rgb(248, 207, 216);
+}
+.tbe .c{
+    background-color: rgb(165, 162, 162);
+    color: rgb(7, 0, 0);
+}
+.gray .aside{
+    float: left;
+    width: 22%;
+    background-color: rgb(247, 235, 238);
+    box-shadow: 5px 5px 10px 6px rgba(0, 0, 0, .3);
+}
+.gray .aside .celan{
+    width: 85%;
+    font-size: 13px;
+}
+.gray .aside .celan .alern{
+    color: gray;
+}
+.gray .aside .sub{
+    background-color: #00A7DE;
+    font-size: 10px;
+    border: 6px solid #00A7DE;
+    color: white;
+    width: 85%;
+    height: 25px;
+    margin: 30px 10px;
+}
+.footer{
+    clear: both;
+    height: 40px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+.olli{
+    padding: 0px 0px 10px 30px;
+    margin: 10px 10px;
+    text-align: left;
+}

@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+}
+.box {
+    width: 416px;
+    height: 530px;
+    margin: 130px auto;
+
+}
+.point{
+    margin: 15px 10px 0px 0px;
+
+}
+.a{
+    font-size: 10px; 
+    color: #00A7DE; 
+    margin:0px 0px 0px 55px;
+}
+.b{
+    font-size: 10px; 
+    color: grey;
+
+}
+.c{
+    font-size: 10px;
+    color: black;
+
+}
+.login {
+    height: 44px;
+    font-size: 14px;
+    padding: 34px 10px 0px 0px;
+    margin-bottom: -35px;
+}
+.info {
+    width: 416px;
+    margin: 20px 30px 0px 0px;
+    padding: 0px 0px 0px 12px;
+    height: 40px;
+    border: 1px solid #9199a1;
+    border-radius: 4px;
+}
+#load{
+    background-color: #00A7DE;
+    font-size: 15px;
+    border: 1px solid #E1E1E1;
+    color: white;
+    width: 195px;
+    height: 35px;
+    margin: 10px 0px 20px 0px;
+}
+#register{
+    background-color:white;
+    font-size: 15px;
+    border: 1px solid #00A7DE;
+    color: black;
+    width: 195px;
+    height: 35px;
+    margin: 10px 0px 10px 20px;
+}
+#blue{
+    color: #00A7DE;
+}
+#gray{
+    color: grey;
+    margin-left: 10px;
+}
+
+.img{
+    width: 18px;
+    height: 18px;
+
+     
+    margin: 0px 0px 0px 20px;
+
+}
+.mesg{
+    font-size: 15px;
+    color: grey;
+    margin: 0px 0px 20px 0px;
+}
